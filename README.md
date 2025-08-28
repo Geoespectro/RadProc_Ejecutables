@@ -1,5 +1,8 @@
 # RadProc - Ejecutables
 
+[![Linux](https://img.shields.io/badge/Linux-v1.0.1-green?logo=linux&logoColor=white)](https://github.com/Geoespectro/RadProc_Ejecutables/releases/tag/v1.0.1)
+[![Windows](https://img.shields.io/badge/Windows-v1.0.0-blue?logo=windows&logoColor=white)](https://github.com/Geoespectro/RadProc_Ejecutables/releases/tag/v1.0.0)
+
 Este repositorio contiene los paquetes comprimidos (`.zip`) con los **ejecutables listos para usar** de la aplicación RadProc, en sus versiones para **Linux y Windows**.
 
 ## 📦 Versiones disponibles
@@ -41,5 +44,6 @@ Incluye:
 
 📌 El código fuente aún está en desarrollo y revisión.  
 Esta distribución es una **versión BETA**, de uso interno en CONAE.
+
 
 
